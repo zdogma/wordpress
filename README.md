@@ -1,0 +1,2 @@
+# wordpress
+Wordpress用のリポジトリ。
